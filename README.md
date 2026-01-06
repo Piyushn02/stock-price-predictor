@@ -2,10 +2,6 @@
 
 A quantitative finance project that forecasts the future stock price of **Allianz SE (ALV.DE)** and other assets using **Monte Carlo Simulations** based on Geometric Brownian Motion (GBM).
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square)
-![Finance](https://img.shields.io/badge/Finance-Quantitative-green?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Educational-orange?style=flat-square)
-
 ## 📖 Overview
 
 Predicting stock prices is notoriously difficult due to market volatility. This project avoids simple linear regression in favor of a stochastic approach. By modeling thousands of potential future price paths, it provides a probabilistic assessment of risk and return rather than a single price target.
